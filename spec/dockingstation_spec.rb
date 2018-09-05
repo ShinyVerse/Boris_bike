@@ -1,5 +1,4 @@
 require 'dockingstation'
-require 'bike'
 
 describe DockingStation do
   it 'responds to method call release_bike' do
